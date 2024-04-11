@@ -2,10 +2,10 @@
 
 <div style="display:inline_block">
 <a href="https://github.com/christopherdantas/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherdantas&theme=tokyonight"/>
+  <img height=180 width = 360 align="center" src="https://github-readme-stats.vercel.app/api?username=christopherdantas&theme=tokyonight"/>
 </a>
 <a href="https://github.com/christopherdantas/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherdantas&theme=tokyonight&layout=compact&langs_count=8&card_width=140"/>
+  <img height=180 width = 400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherdantas&theme=tokyonight&layout=compact&langs_count=8&card_width="360"/>
 </a>
 </div>
 <br>
@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
 </div>
-
+<br>
 <div> 
   <a href="https://www.instagram.com/christopher__dantas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:christopher.dantas*outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
