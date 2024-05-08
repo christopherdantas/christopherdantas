@@ -24,23 +24,17 @@
   <a href="https://www.linkedin.com/in/christopher-dantas-b86139181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ```javascript
-const anmol = {
+const christopher = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            php: ["Laravel"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["MySql"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Patience it´s like money, I never have it."
 };
 ```
