@@ -35,6 +35,6 @@ const christopher = {
         databases: ["MySql"],
     },
     currentFocus: "No Focus point at this time",
-    funFact: "I will find my way, or I will make it."
+    funFact: "either I will find a way or I will make one."
 };
 ```
