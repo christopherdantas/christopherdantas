@@ -35,6 +35,6 @@ const christopher = {
         databases: ["MySql"],
     },
     currentFocus: "No Focus point at this time",
-    funFact: "either I will find a way or I will make one."
+    funFact: "Which is better ? - being born good, or overcoming your evil nature through great effort?"
 };
 ```
