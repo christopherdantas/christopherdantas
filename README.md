@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Christopher!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)
 
-<hr>
 
-<div align="center" dir="auto"">Contato</div>
+
+<div align="center" dir="auto""><h1>Contato</h1></div>
 
 
 
@@ -22,11 +22,9 @@
   </a>
 </p>
 
-<hr>
 
 <div align="center" dir"auto"> 
-  <img width="30" align="center" style="max-width: 100%;">Linguagens | Ferramentas
-  <img width="30" align="center" style="max-width: 100%;">
+  <h1>Linguagens | Ferramentas</h1>
 </div>
 
 
