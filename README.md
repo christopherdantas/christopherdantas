@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black" width="100%" title="Christopher Dantas" alt="Christopher Dantas" style="max-width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient" title="Christopher Dantas" alt="Christopher Dantas" style="width: 100%;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Christopher!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AEACA7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Christopher!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)
 
 
 
@@ -73,5 +73,5 @@ const christopher = {
     <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/github/followers/christopherdantas?label=Followers&amp;style=flat&amp;color=6A5ACD" alt="Guilherme-Rodrigues"         data-canonical-src="https://img.shields.io/github/followers/christopherdantas?label=Followers&amp;style=flat&amp;color=0e75b6" style="max-width: 100%;"></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&section=footer" width="100%" title="Christopher Dantas" alt="Christopher Dantas" style="max-width: 10px;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" width="100%" title="Christopher Dantas" alt="Christopher Dantas" style="max-width: 10px;">
 
