@@ -1,77 +1,98 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient" title="Christopher Dantas" alt="Christopher Dantas" style="width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="header image"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AEACA7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Christopher!;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+Vindo!+:%29)
+<h1 align="center">Olá, eu sou o Christopher Dantas! 👋</h1>
+<h3 align="center">Técnico em Redes & Analista de Segurança | Fundador da Konnekta!</h3>
 
-
-
-<div align="center" dir="auto""><h1>Contato</h1></div>
-
-
-
-<p align="center" dir="auto">
-  <br>
-  <a href="https://www.instagram.com/christopher__dantas/" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="max-width: 100%;">
-  </a>
-  <a href="https://www.linkedin.com/in/christopher-dantas-b86139181?" rel="nofollow">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
-  </a>
-  </a>
-  <a href="mailto:christopherdb10@Gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Redes-e-Telecomunicações-blue?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCNA-Certified-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Founder-Konnekta!-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-Admin-black?style=flat-square&logo=linux"/>
+  <img src="https://img.shields.io/badge/Pop!_OS-User-green?style=flat-square&logo=popos"/>
 </p>
 
+---
 
-<div align="center" dir"auto"> 
-  <h1>Linguagens | Ferramentas</h1>
-</div>
+### 📌 Sobre mim
+
+- 💼 Atualmente atuo como **Técnico de Redes Sênior no TRE-DF**, via CTC.
+- 🧠 Formação em **Análise e Desenvolvimento de Sistemas** pelo Senac-DF.
+- 🛡️ Foco em **segurança de redes, infraestrutura e suporte de missão crítica**.
+- 🚀 Empreendedor: **fundador da Konnekta!**, uma empresa de tecnologia especializada em soluções de conectividade e suporte técnico.
+- 🧩 Curioso por natureza: adoro **testar ferramentas, scripts e topologias complexas**.
+
+---
+
+### 🏅 Certificações e Conquistas
+
+#### 🚀 AWS
+<img src="https://img.shields.io/badge/AWS_Cloud_Security_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+#### 🎓 Cisco - CCNA
+<img src="https://img.shields.io/badge/CCNA_Enterprise_Networking-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CCNA_Switching_Routing_Wireless-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+#### 🛡️ Cisco - Segurança e Fundamentos
+<img src="https://img.shields.io/badge/Endpoint_Security-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network_Defense-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intro_Cybersecurity-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/English_for_IT_1-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking_Basics-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python_Essentials_1-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+#### 🏁 Cisco - Learn-A-Thon
+<img src="https://img.shields.io/badge/Learn_A_Thon_2023-Participant-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learn_A_Thon_2024-Participant-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Learn_A_Thon_2025-Participant-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 
+### 🧰 Principais Competências
 
-<p align="center" >
-  <br>
-  <img align="center" alt="Christopher-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Christopher-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Christopher-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Christopher-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Christopher-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Christopher-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<br/>
+- **Infraestrutura de Redes**: VLAN, STP, DHCP, NAT, ACL, SNMP, OSPF, VPN, IPsec, QoS
+- **Protocolos**: TCP/IP, BGP (estudos), LLDP, SSH, FTP, HTTPS
+- **Ferramentas & Tecnologias**:
+  - Cisco IOS, Packet Tracer, Wireshark, GNS3, MikroTik
+  - Linux (Pop!_OS, Ubuntu Server), Windows Server
+- **Scripting e automação básica**: Bash, PowerShell, Python (iniciante)
 
-```javascript
-const christopher = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
-    technologies: {
-        backEnd: {
-            php: ["Laravel"],
-        },
-        databases: ["MySql"],
-    },
-    currentFocus: "No Focus point at this time",
-    funFact: "Which is better ? - being born good, or overcoming your evil nature through great effort?"
-};
-```
-<div align="center" dir="auto">
-  <a href="http://www.github.com/christopherdantas">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=christopherdantas&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Christopher Dantas Github Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=Lukas-Ramos&amp;show_icons=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">
-  </a>
-</div>
+---
 
-<div align="center" dir="auto">
-  <a href="https://github.com/christopherdantas">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=christopherdantas&amp;hide=&amp;count_private=true&amp;bg_color=0D1117&amp;theme=react&amp;hide_border=true&amp;show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=christopherdantas&amp;hide=&amp;count_private=true&amp;bg_color=0D1117&amp;theme=react&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
-  </a>
-  <a href="https://github.com/christopherdantas">
-     <img width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherdantas&amp;langs_count=10&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherdantas&amp;langs_count=10&amp;count_private=true&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">
-  </a>
-</div>
-<div align="Center" dir="Auto">
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://komarev.com/ghpvc/?username=christopherdantas&amp;label=Visitors&amp;color=6A5ACD&amp;style=flat" alt="Guilherme-Rodrigues"         data-canonical-src="https://komarev.com/ghpvc/?username=christopherdantas&amp;label=Visitors&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/github/followers/christopherdantas?label=Followers&amp;style=flat&amp;color=6A5ACD" alt="Guilherme-Rodrigues"         data-canonical-src="https://img.shields.io/github/followers/christopherdantas?label=Followers&amp;style=flat&amp;color=0e75b6" style="max-width: 100%;"></a>
-</div>
+### 💬 Linguagens que conheço
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" width="100%" title="Christopher Dantas" alt="Christopher Dantas" style="max-width: 10px;">
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
+---
+
+### 📬 Contato
+
+<p align="center">
+  <a href="mailto:christopherdb10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/christopher-dantas-b86139181/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/connecta_dantas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christopherdantas&show_icons=true&theme=react&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=christopherdantas&theme=react&hide_border=true" width="38%"/>
+</p>
+
+---
+
+### 🧠 Pensamento do dia
+
+> _“Which is better? Being born good, or overcoming your evil nature through great effort?”_ — Paarthurnax 🐉
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer" width="100%"/>
