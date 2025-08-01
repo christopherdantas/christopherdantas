@@ -16,7 +16,7 @@
 ### 📌 Sobre mim
 
 - 💼 Atualmente atuo como **Técnico de Redes Sênior no TRE-DF**, via CTC.
-- 🧠 Formação em **Análise e Desenvolvimento de Sistemas** pelo Senac-DF.
+- 🧠 Formado em **Análise e Desenvolvimento de Sistemas** pelo Senac-DF.
 - 🛡️ Foco em **segurança de redes, infraestrutura e suporte de missão crítica**.
 - 🚀 Empreendedor: **fundador da Konnekta!**, uma empresa de tecnologia especializada em soluções de conectividade e suporte técnico.
 - 🧩 Curioso por natureza: adoro **testar ferramentas, scripts e topologias complexas**.
