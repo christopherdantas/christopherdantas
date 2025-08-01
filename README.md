@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header" alt="header image"/>
 
 <h1 align="center">Olá, eu sou o Christopher Dantas! 👋</h1>
-<h3 align="center">Técnico em Redes & Analista de Segurança | Fundador da Konnekta!</h3>
+<h3 align="center">Técnico em Redes & Analista de Segurança | Fundador da ConnectaDantas!</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Redes-e-Telecomunicações-blue?style=flat-square&logo=cisco&logoColor=white"/>
